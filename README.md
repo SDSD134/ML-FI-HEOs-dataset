@@ -5,18 +5,18 @@ This is the repository for dataset that was used in the paper: Multi-dimensional
 In this work, the data sets were gathered from published papers. The dataset comprises 192 experimental data samples, each including the chemical formula and Thermal conductivity values, and is available in the supplementary Information. Below are the data descriptions of other data set files
 
 
-## 1. data_with_AB_merged_file.csv
-
-This file gives the first type interaction of A-site and B-site within the same chemical composition, as shown in Fig.2(a). Using the single element feature, the average value and disorder value of the six types of features of A-site and B-site are calculated, and then the feature interaction of the above values is carried out. Each type of interaction includes addition, subtraction, multiplication, division, and root mean square.
-
-As shown in data_with_AB_merged_file.csv, A total of 84 features were obtained, of which 60 groups were derived from the feature interactions between A-site and B-site, and 24 groups were derived from the mean and disordered values of sites A and B.
-
-
-## 2. data_with_ABO_merged_file.csv
+## 1. data_with_ABO_merged_file.csv
 
 This file gives the second type interaction of the A<sub>2</sub>O<sub>3</sub> and B<sub>2</sub>O<sub>4</sub> for the same chemical component which is shown in Fig.2(a). Using the single element feature, the average value and disorder value of the six types of features of A<sub>2</sub>O<sub>3</sub> and B<sub>2</sub>O<sub>4</sub> are calculated, and then the feature interaction of the above values is carried out. Each type of interaction includes addition, subtraction, multiplication, division, and root mean square.
 
 As shown in data_with_ABO_merged_file.csv, A total of 84 features were obtained, of which 60 groups were derived from the feature interactions between A<sub>2</sub>O<sub>3</sub> and B<sub>2</sub>O<sub>4</sub>, and 24 groups were derived from the mean and disordered values of A<sub>2</sub>O<sub>3</sub> and B<sub>2</sub>O<sub>4</sub>.
+
+
+## 2. data_with_AB_merged_file.csv
+
+This file gives the first type interaction of A-site and B-site within the same chemical composition, as shown in Fig.2(a). Using the single element feature, the average value and disorder value of the six types of features of A-site and B-site are calculated, and then the feature interaction of the above values is carried out. Each type of interaction includes addition, subtraction, multiplication, division, and root mean square.
+
+As shown in data_with_AB_merged_file.csv, A total of 84 features were obtained, of which 60 groups were derived from the feature interactions between A-site and B-site, and 24 groups were derived from the mean and disordered values of sites A and B.
 
 
 ## 3. data_with_ION_merged_file.csv
